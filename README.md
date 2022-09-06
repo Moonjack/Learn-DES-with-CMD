@@ -42,7 +42,7 @@ ermittelte Zahl. Die S-Box ist folgendermaßen aufgebaut:\
 	0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 101 1011 1100 1101 1110 1111 <br /> 
 00\
 01\
-10\
+10
 
 
 
