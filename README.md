@@ -39,7 +39,7 @@ welche die 6 Bits ersetzten werden. Folgendermaßen werden die 4 Bits ermittelt:
 erste Bit und das letzte Bit. Also: ”00”. Dies ist die Zeile 1 in der S-Box. Die mittleren\
 Bits : ”0011” bestimmen die Spalte Dies wäre die Spalte 4. Zeile 1 und Spalte 4 ist die\
 ermittelte Zahl. Die S-Box ist folgendermaßen aufgebaut:\
-	0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 101 1011 1100 1101 1110 1111\ 
+	0000 0001 0010 0011 0100 0101 0110 0111 1000 1001 101 1011 1100 1101 1110 1111 \ 
 00\
 01\
 10\
