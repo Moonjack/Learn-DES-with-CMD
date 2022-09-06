@@ -2,7 +2,7 @@
 
 Symmetrische Verschlüsselung
 2.6.1 DES
-(Beispiel in Eigenarbeit, oder mit verbaler Anleitung) Das Programm hat zwei
+(Beispiel in Eigenarbeit)) Das Programm hat zwei
 Zustände. Zum einen gibt es den „Quiz“-Modus und zum anderen gibt es den ”Präsentatios”-
 Modus. Beim ”Präsentations”-Modus kann der Dozent den Ablauf des Data Encryption
 Standard Algorithmus zeigen. Der Dozent kann die Runde wählen, und somit
