@@ -33,6 +33,10 @@ gelöst werden. Die Bits werden folgendermaßen aufgepumpt:\
 28 | 0010 | 32\
 Die Zahlen der Bits sind die Bitnummern. Die Bits mit den Bitnummern müssen eingegeben\
 werden. In der nächsten Aufgabe wird gezeigt, wie die Bits mit anderen Bits substituiert\
+
+![blaa](https://user-images.githubusercontent.com/15650025/192159328-b94d180e-c0bc-43f1-9375-8b59aa3f1f24.PNG)
+
+
 werden. Beispielsweise haben wir das Bit ”000110”. Mittels S-Boxen wird dieser Bitstrom\
 substituiert und von 6 Bits auf 4 Bits reduziert. In diesen S-Boxen stehen diese 4 Bits,\
 welche die 6 Bits ersetzten werden. Folgendermaßen werden die 4 Bits ermittelt: Das\
